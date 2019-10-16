@@ -9,7 +9,7 @@
 
 sssssssssssss
 ## 使用说明
-
+asxacas
 1、打开LinkMap.xcodeproj，并运行，就可以看到工具界面
 <img src="https://github.com/huanxsd/LinkMap/blob/master/ScreenShot1.png" alt="ScreenShot1" title="ScreenShot1">
 
